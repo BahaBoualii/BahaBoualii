@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Baha Bouali</h1>
-<h3 align="center">Computer networks and Telecommunication student, web developer and mobile developer. I'm passionate about problem solving and casually playing in competitive programming contests. Actually having a deep dive into the Machine Learning field...</h3>
+<h3 align="center">Computer networks and Telecommunication student, web developer and mobile developer. I'm passionate about problem solving and casually playing in competitive programming contests. Actually having a deep dive into DevOps technologies...</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
 - 🔭 I’m currently working on **Web and Mobile projects**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **mohamedbahaeddine.bouali@insat.ucar.tn**
 
