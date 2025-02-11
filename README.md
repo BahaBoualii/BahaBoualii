@@ -8,8 +8,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, TypeScript, Go
-- **Frameworks**: NestJs, Express, Flask
+- **Languages**: Python, TypeScript, Go, Java
+- **Frameworks**: NestJs, Express, SpringBoot
 - **Tools**: Git, Docker, Ansible
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud**: AWS, Azure
